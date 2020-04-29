@@ -1,0 +1,24 @@
+{
+  "name": "simple-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schrotbe2021/Ethereum.git"
+  },
+  "author": "Ben Schroth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schrotbe2021/Ethereum/issues"
+  },
+  "homepage": "https://github.com/schrotbe2021/Ethereum#readme",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "web3": "^1.2.7"
+  }
+}
