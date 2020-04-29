@@ -1,0 +1,14 @@
+{
+  "name": "voting-dapp",
+  "version": "1.0.0",
+  "description": "First dApp",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Schroth",
+  "license": "ISC"
+}
